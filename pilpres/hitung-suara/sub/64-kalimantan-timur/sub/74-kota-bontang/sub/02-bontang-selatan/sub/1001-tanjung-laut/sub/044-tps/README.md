@@ -1,82 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 106
-    bar [53, 106, 6]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 53
-    "2" : 106
-    "3" : 6
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 53    | [53][p-1]   | 32,12      |
-| 2   | PRABOWO GIBRAN | 106   | [106][p-2]  | 64,24      |
-| 3   | GANJAR MAHFUD  | 6     | [6][p-3]    | 3,64       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-64-kalimantan-timur/blob/main/pilpres/hitung-suara/sub/64-kalimantan-timur/sub/74-kota-bontang/sub/02-bontang-selatan/sub/1001-tanjung-laut/sub/044-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-64-kalimantan-timur/blob/main/pilpres/hitung-suara/sub/64-kalimantan-timur/sub/74-kota-bontang/sub/02-bontang-selatan/sub/1001-tanjung-laut/sub/044-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-64-kalimantan-timur/blob/main/pilpres/hitung-suara/sub/64-kalimantan-timur/sub/74-kota-bontang/sub/02-bontang-selatan/sub/1001-tanjung-laut/sub/044-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/984f/pemilu/ppwp/64/74/02/10/01/6474021001044-20240214-155046--f43c0e8d-bc4e-4c3e-9250-b8abfb2e81c9.jpg
+https://sirekap-obj-formc.kpu.go.id/984f/pemilu/ppwp/64/74/02/10/01/6474021001044-20240315-151435--832e9994-d545-409f-9938-c4c6891a7e65.jpg
 
-https://sirekap-obj-formc.kpu.go.id/984f/pemilu/ppwp/64/74/02/10/01/6474021001044-20240214-155220--66710aa6-61d0-4bfd-a9cf-eadf661fa834.jpg
+https://sirekap-obj-formc.kpu.go.id/984f/pemilu/ppwp/64/74/02/10/01/6474021001044-20240315-151437--74ed8b8e-65f3-4af0-add0-0850dde5b35b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/984f/pemilu/ppwp/64/74/02/10/01/6474021001044-20240214-155307--eb01ece5-e6fb-4419-b740-b3176f6ed930.jpg
+https://sirekap-obj-formc.kpu.go.id/984f/pemilu/ppwp/64/74/02/10/01/6474021001044-20240315-151436--0d4fac2b-2fa8-4ff7-8dbf-06eaa7f81397.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 23:00:00 |
+| Time Stamp | 2024-03-15 15:30:00 |
 
 
 ## DATA PEMILIH TETAP
 
-Jumlah pemilih dalam DPT: **205**.
- * L: **96**.
- * P: **109**.
+Jumlah pemilih dalam DPT: **263**.
+ * L: **122**.
+ * P: **141**.
 
 ## DATA PENGGUNA HAK PILIH
 
-Jumlah pengguna hak pilih dalam DPT: **154**.
- * L: **70**.
- * P: **84**.
+Jumlah pengguna hak pilih dalam DPT: **201**.
+ * L: **91**.
+ * P: **110**.
 
 Jumlah pengguna hak pilih dalam DPTb: **2**.
+ * L: **1**.
+ * P: **1**.
+
+Jumlah pengguna hak pilih dalam DPK: **7**.
  * L: **2**.
- * P: **0**.
+ * P: **5**.
 
-Jumlah pengguna hak pilih dalam DPK: **11**.
- * L: **7**.
- * P: **4**.
-
-Jumlah pengguna hak pilih: **167**.
- * L: **79**.
- * P: **88**.
+Jumlah pengguna hak pilih: **210**.
+ * L: **94**.
+ * P: **116**.
 
 ## JUMLAH SUARA SAH DAN TIDAK SAH
 
-JUMLAH SELURUH SUARA SAH: **165**.
+JUMLAH SELURUH SUARA SAH: **210**.
 
-JUMLAH SUARA TIDAK SAH: **2**.
+JUMLAH SUARA TIDAK SAH: **0**.
 
-JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **167**.
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **210**.
 
 
