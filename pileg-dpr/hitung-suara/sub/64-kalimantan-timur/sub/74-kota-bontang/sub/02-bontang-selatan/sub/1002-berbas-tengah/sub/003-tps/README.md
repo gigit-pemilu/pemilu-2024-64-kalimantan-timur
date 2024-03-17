@@ -2,11 +2,11 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-104618--946fb4d0-1944-421a-97c4-87857ea92339.jpg
+https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240315-150933--301ad511-9a63-4777-8d0c-e8db90b86a27.jpg
 
 https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-104640--d2df194d-5dc1-44f1-9f83-6209fd656ad2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-104716--dd37db72-6efd-4463-9df1-b1342149ec49.jpg
+https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240315-150934--c544ba20-5fe1-4d26-bbcb-e1d8a5654dfe.jpg
 
 https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-104741--e46ccb68-a8dc-406d-85b3-438f5cb46704.jpg
 
@@ -34,7 +34,7 @@ https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/647402100200
 
 https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-105217--ba3cd21b-8a01-475d-b964-78f38450dee5.jpg
 
-https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-105239--d3a2c500-ba18-4a22-85d8-2d696d87dde8.jpg
+https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240315-150937--64aa8b34-e449-411d-aecf-8dda45c9f78d.jpg
 
 https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/6474021002003-20240222-105300--e078f4b9-b0eb-43d3-a696-2dbfedc811c9.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/285e/pemilu/pdpr/64/74/02/10/02/647402100200
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-22 11:03:33 |
+| Time Stamp | 2024-03-15 15:33:47 |
 | Kode Dapil | 6401                |
 
 
